@@ -1,7 +1,0 @@
-{
-  "singleQuote": true,
-  "wrapAttributes": "auto",
-  "wrapLineLength": 0,
-  "printWidth": 130,
-  "bracketSpacing": true
-}
